@@ -1,4 +1,4 @@
-# Quiz de géographie – France (Processing)
+# SAE 1.01 1.02 Quiz de geographie Processing
 
 ## Contexte du projet (SAE)
 
@@ -79,9 +79,18 @@ Les données géographiques (départements, images) sont chargées depuis des **
 
 ---
 
-## Travail de groupe et contribution personnelle
+## Organisation du travail
+
+Projet réalisé en groupe dans le cadre de la SAE.
+
+### Travail de groupe et contribution personnelle
 
 Le projet a été réalisé en travail de groupe avec une répartition des tâches définie en amont.
+
+### Membres du groupe
+
+* Yann Madry
+* Adam Bounouara
 
 Ma contribution personnelle s’est concentrée principalement sur :
 - la gestion de la carte  
