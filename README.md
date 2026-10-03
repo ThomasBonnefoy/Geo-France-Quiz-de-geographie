@@ -1,10 +1,12 @@
-# SAE 1.01 1.02 Quiz de geographie Processing
+# Geo France – Quiz de géographie
 
-## Contexte du projet (SAE)
+## Contexte du projet
 
-Ce projet a été réalisé dans le cadre d’une **SAE de développement en Processing** au sein du **BUT Informatique**, à l’**IUT Lyon 1 – site de Bourg-en-Bresse**.
+Ce projet a été réalisé dans le cadre d’une **SAE** (*Situation d’Apprentissage et d’Évaluation*, **1.01 – 1.02 – Quiz de géographie*) de développement en Processing, au sein du **BUT Informatique**, à l’**IUT Lyon 1 – site de Bourg-en-Bresse**.
 
-La SAE 1.01–1.02 vise à mettre en œuvre un projet de développement conséquent, en groupe, en portant une attention particulière à :
+La SAÉ est le dispositif pédagogique qui structure les projets du BUT : l’IUT confie aux étudiants un projet conséquent, réalisé en équipe, qui reproduit les conditions d’un travail réel : cahier des charges, gestion de projet, travail collaboratif et livrable évalué. Ces situations d’apprentissage constituent l’un des principaux vecteurs d’évaluation de la formation, en **contrôle continu**.
+
+L’objectif est de mettre en œuvre un projet de développement conséquent, en groupe, en portant une attention particulière à :
 - la qualité et l’organisation du code
 - l’ergonomie et l’expérience utilisateur
 - la finalisation complète des fonctionnalités
