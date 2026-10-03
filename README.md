@@ -91,8 +91,9 @@ Le projet a été réalisé en travail de groupe avec une répartition des tâch
 
 ### Membres du groupe
 
-* Yann Madry
+* [Yann Madry](https://github.com/yann-madry)
 * Adam Bounouara
+* [Thomas Bonnefoy](https://github.com/ThomasBonnefoy)
 
 Ma contribution personnelle s’est concentrée principalement sur :
 - la gestion de la carte  
